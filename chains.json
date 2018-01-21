@@ -1,0 +1,137 @@
+{
+  "0x353e8ca0274c9ff50898ccafa037a741d444e0e0b2818a295ec810d63e12344b": {
+    "contracts": {
+      "0x6f40a1fbbcb0d7884736d09b5bc620109d5a42ce12cade34b8e331bdaffaa611": {
+        "name": "SimpleStorage",
+        "address": "0x697581f58ffad02c2c6364a71c63c0353609f193"
+      },
+      "0x39b92169f2c1dadf7fb62bc1301efa298b52af4ad18c69a6680b6485284150b1": {
+        "name": "SimpleStorage",
+        "address": "0xb4ccf36c20faaa5e4fa73ab4e93999048aefdb7b"
+      },
+      "0x2ccd35f284c0ff956d76facdd6ebafea66e92b420c7d6c766ee279e305739343": {
+        "name": "MDBAccount",
+        "address": "0xfde275bd6c4285ea59d18dec16fddacefb1d4990"
+      },
+      "0xcb69e677ae2d2019465387fdd39c9d7a5e3333e77769092d1b108a8a7500b574": {
+        "name": "MDBAccount",
+        "address": "0xb198405b4a261077411da8c4a0a25dc18aef097b"
+      },
+      "0x202547c7d065369fdcaa8450b7b78b7a00adda355fb52f129469874e902ff295": {
+        "name": "MDBAccount",
+        "address": "0x1979986a7fe94f814e9b5209802873be60f8d48a"
+      },
+      "0x4c1455610f5228b59149b629cd46016bf4c09da29149cd561883519f7521c49a": {
+        "name": "SimpleStorage",
+        "address": "0x3cd8357a202983d6c197090135638cf723d00e89"
+      },
+      "0xd4e8b4cdb1ddf2623ec732bc4b201ecd0dac941c5ca9d66572e2de9d76526ec8": {
+        "name": "MDBAccount",
+        "address": "0x985a8356b5e35c91583ce0606885a95abfcf78dd"
+      },
+      "0x5d54f31a304065f1cd61c19169178c2e4624c4968fc770d92825185403c7aa51": {
+        "name": "MDBAccount",
+        "address": "0x4798dd5f91441f89c1fc69c0360fe8f07490fea1"
+      },
+      "0xf141f0e03646cd4165a49ab15e7a7a7e6aaf48511a3bc37453d876f6423340b9": {
+        "name": "SimpleStorage",
+        "address": "0x2b245c18af3504f54acd387f35b978a383779429"
+      },
+      "0x62ac13c7d1ad8a1f1fc74fd176dcdca5b1b9b5ad76a2694197363af483c845d9": {
+        "name": "MDBAccount",
+        "address": "0x1128b3d1ba018624a0a4d7deea9ff825b0a40538"
+      },
+      "0xf8785ae74c2ddc4675d55f569ea8a10b20820035843fe1804f98cf846b32073d": {
+        "name": "SimpleStorage",
+        "address": "0xf715722019a52b4c98b3a982e25369eb1e158471"
+      },
+      "0x4bbf15d464670f39fdc9d6cc7a9796dd094466c017f9df81f1cee3ca385fd97f": {
+        "name": "BestContract",
+        "address": "0xed080a851d46ba036a8e05ba507d68b3abc78f26"
+      },
+      "0xdf35a672f8a90bf9bc3ce74b16ad8cf9ee3ceddc6ee732089b277d750fb0aa17": {
+        "name": "BestContract",
+        "address": "0x50f0cbca0e482dd3dc510a05637d8c03868e3840"
+      },
+      "0xaed0d88ee786b45c92da990cdd6ff8b1b5ac5a1787051637ae9510366660f127": {
+        "name": "BestContract",
+        "address": "0xade355ba130199f07c988c4d9bc855293f6344a2"
+      },
+      "0x5e51599be4b692032aa14aaacda45450cc324868a7cb07778e3e0853f48c9510": {
+        "name": "BestContract",
+        "address": "0xc5e27daa23ba47f8b68e8ff8e8e654dacd2238c9"
+      },
+      "0xa84b5d5577ac799a9cdececcc40dfcc4b94e721ef64532bbc708ab1f6b55c34b": {
+        "name": "BestContract",
+        "address": "0x81d6e22293c94117680a574bd950f33f52db9164"
+      }
+    },
+    "name": "privatenet"
+  },
+  "0x599978dc7260f89c5006bc73bf68ff5930a8985d2451544ee1eb0d2b3157b2ed": {
+    "contracts": {
+      "0xf8785ae74c2ddc4675d55f569ea8a10b20820035843fe1804f98cf846b32073d": {
+        "name": "SimpleStorage",
+        "address": "0x0958f55f4dd497f1b101d40d019b5e1f6238a2f6"
+      },
+      "0x62ac13c7d1ad8a1f1fc74fd176dcdca5b1b9b5ad76a2694197363af483c845d9": {
+        "name": "MDBAccount",
+        "address": "0xa9eb5571186873e7197db1ad6b8ccbb3a6c6cd92"
+      },
+      "0x0dc7323ff09972f10787d9c68c36f8a7b1bce8208641850e678a07784776919c": {
+        "name": "BestContract",
+        "address": "0xeffeb621dc36db4997e5bbdf2ffbec61b8c5469e"
+      },
+      "0xec10ea7c8e8021aaa6795ea1a1accc7b4c9fa6285301adc55e9c615eae9e43b5": {
+        "name": "BestContract",
+        "address": "0x223c232713b90ab9e4ccf7191966d79bf23e9e2d"
+      },
+      "0xea76b3045f57073ee4cc914774ef381ab1b6dfda842b096b2c918c682795b50d": {
+        "name": "BestContract",
+        "address": "0x59aac5ce9c37fa1a25e6728e655362eb02c84d05"
+      },
+      "0x82204360046df2f4988a705ed0ca4d0d947f212c99aa03d91010e39759a92483": {
+        "name": "BestContract",
+        "address": "0x0c6fee5e06bea7eab1426cfeb1a1ce04f6526ba5"
+      },
+      "0x7dcb35a01210b266b18852e895174c65ad5f9db472960adf92066d199bc11b4e": {
+        "name": "BestContract",
+        "address": "0xda5e0d155ff244e60877ef141adbe225c142fbe3"
+      },
+      "0xd0d0cb4b5bb6887b8cf6db4a2f00d1fdd87ba1b372fa147b5585f150df83c15f": {
+        "name": "BestContract",
+        "address": "0x1a9f65a76245951195e0286dd3949b7c97d6be97"
+      }
+    },
+    "name": "privatenet"
+  },
+  "0x5b39a002e79a762a8d1569ef39832487470779b6aee64a595ecbd3e788d59e76": {
+    "contracts": {
+      "0xf8785ae74c2ddc4675d55f569ea8a10b20820035843fe1804f98cf846b32073d": {
+        "name": "SimpleStorage",
+        "address": "0x52052d26bd3b91338781569ec22c5315bbea878e"
+      },
+      "0x62ac13c7d1ad8a1f1fc74fd176dcdca5b1b9b5ad76a2694197363af483c845d9": {
+        "name": "MDBAccount",
+        "address": "0x2988baad36256dcab83edb729d0cf1b243d2fc82"
+      },
+      "0xd0d0cb4b5bb6887b8cf6db4a2f00d1fdd87ba1b372fa147b5585f150df83c15f": {
+        "name": "BestContract",
+        "address": "0xab83e9af9cc3d261f7846ee387cca8901ceb470a"
+      },
+      "0x9ab2775fb73d18f5eab69ebce277a033002a9283c14358a85f11389af9eb961f": {
+        "name": "BestContract",
+        "address": "0x94626c0dea3ea0e01c66793b177160c8ba013c78"
+      },
+      "0xddf22f8d6264576cedd9369a74d29fd2f4c58b4f1b828737bb82a76a31b92588": {
+        "name": "TokenERC20",
+        "address": "0x28702f73cc38eba19303f61509313336beb8c36b"
+      },
+      "0x90fd09748783de7ca454dffe8b07840ab6f6767c7610b03e5250b41946d5b7d6": {
+        "name": "MyToken",
+        "address": "0x56b90dbc5aa40df43e2b635a27b9f0379347a70e"
+      }
+    },
+    "name": "privatenet"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "default": {
+    "versions": {
+      "web3.js": "1.0.0-beta",
+      "solc": "0.4.17"
+    },
+    "deployment": {
+      "host": "localhost",
+      "port": 8545,
+      "type": "rpc"
+    },
+    "dappConnection": [
+      "$WEB3",
+      "http://localhost:8545"
+    ],
+    "gas": "auto",
+    "contracts": {
+      "SimpleStorage": {
+        "args": [
+          "0x3cd8357a202983d6c197090135638cf723d00e89"
+        ],
+        "gas": 800000
+      },
+      "MDBAccount": {
+        "args": [
+          "0x4798dd5f91441f89c1fc69c0360fe8f07490fea1"
+        ]
+      },
+      "BestContract": {
+        "args": [
+          "0x50f0cbca0e482dd3dc510a05637d8c03868e3840"
+        ],
+        "gas": 800000
+      }
+    }
+  }
+}
